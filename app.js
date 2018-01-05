@@ -33,7 +33,7 @@ App({
       }
     })
 	wx.getStore({
-		
+		console.log('测试中')
 		
 	})
 	
